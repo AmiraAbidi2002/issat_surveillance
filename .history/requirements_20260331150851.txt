@@ -1,0 +1,8 @@
+django>=4.2
+djangorestframework>=3.14
+psycopg2-binary>=2.9
+djangorestframework-simplejwt>=5.3
+openpyxl>=3.1
+reportlab>=4.0
+pillow>=10.0
+django-cors-headers>=4.3
